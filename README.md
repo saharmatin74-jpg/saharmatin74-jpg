@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sahar
 
-<!--
-**saharmatin74-jpg/saharmatin74-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Building Desktop Applications
 
-Here are some ideas to get you started:
+I'm passionate about programming and software development, with a focus on Python and creating practical desktop applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm continuously learning and improving my programming skills by building real-world projects.
+
+### 🛠️ Technologies & Tools
+
+- **Language:** Python
+- **GUI Development:** CustomTkinter
+- **Data Visualization:** Matplotlib
+- **Excel Automation:** OpenPyXL
+- **Data Storage:** JSON
+- **Version Control:** Git & GitHub
+
+### 🚀 Featured Project
+
+**[Python Expense Tracker](https://github.com/saharmatin74-jpg/python-expense-tracker)**
+
+A modern desktop expense tracking application built with Python and CustomTkinter.
+
+Features include:
+- Expense management
+- Dashboard and analytics
+- Search, filtering, and sorting
+- Financial reports and charts
+- Excel export
+- Dark and Light themes
+
+### 📌 Current Focus
+
+- Improving my Python programming skills
+- Building practical software projects
+- Learning software development best practices
+
+### 📫 Find Me on GitHub
+
+[GitHub Profile](https://github.com/saharmatin74-jpg)
